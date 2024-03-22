@@ -1,5 +1,6 @@
 <mjml>
     <mj-head>
+        <mj-title>Ateliers TRE JPO 13052024</mj-title>
         <mj-attributes>
             <mj-font name="Oswald" href="https://fonts.googleapis.com/css2?family=Oswald:wght@400;700&display=swap"/>
             <mj-font name="Roboto" href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;700;900&display=swap"/>
@@ -45,13 +46,13 @@
     </mj-section>
         <mj-section mj-class="d-section">
             <mj-column>
-                <mj-image href="https://ecosup-campus.com" padding= "0px" src="images/BandeauCampus13052023.jpg" target="_blank" alt="Logo d'Ecosup Campus" />
+                <mj-image href="https://ecosup-campus.com" padding= "0px" src="src/images/BandeauCampus13052023.jpg" target="_blank" alt="Logo d'Ecosup Campus" />
             </mj-column>
         </mj-section>
         <!--titre-->
         <mj-section mj-class="d-section">
             <mj-column>
-                <mj-image href="https://forms.gle/7CMYvQePd9MxfsHw9" padding="0px" src="images/annonceLet02-13052023.jpg" target="_blank" alt="Affiche de la Journée Portes Ouvertes du 13 mai 2023" />
+                <mj-image href="https://forms.gle/7CMYvQePd9MxfsHw9" padding="0px" src="src/images/annonceLet02-13052023.jpg" target="_blank" alt="Affiche de la Journée Portes Ouvertes du 13 mai 2023" />
                 <mj-text align="center" padding="3% 2% 0% 2%" color="#1F3C90" font-family="Oswald,Arial,sans-serif" font-size="45px" font-weight="700">
                 Atelier Techniques et Recherche d'entreprises
                 </mj-text>
